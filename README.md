@@ -15,4 +15,4 @@
 
 4) 원하는 염색체가 있으면 종료, 없으면 3번으로 넘어가 반복한다.  
 
-![텍스트]https://t1.daumcdn.net/cfile/tistory/9921F3475C5F191508?download
+![ex1] https://t1.daumcdn.net/cfile/tistory/9921F3475C5F191508?download
